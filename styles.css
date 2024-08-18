@@ -28,7 +28,10 @@ body, html {
         text-align: center;
         padding: 20px;
         margin: 15px;
-
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
     }
 }
 
